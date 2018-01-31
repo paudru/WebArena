@@ -1,0 +1,708 @@
+* ec73783 was Caroline Béguinot, 5 minutes ago, message: commit avant merge, HEAD -> sight, origin/sight| 
+| webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_24.jpg
+| webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_23.jpg
+| webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_34.jpg
+| webroot/img/Fog1copie.png
+
+* 56b2d0e was Caroline Béguinot, 10 minutes ago, message: commit avant merge, | 
+| src/Controller/AppController.php
+| src/Model/Table/SurroundingsTable.php
+| src/Template/Arenas/sight.ctp
+| src/Template/Layout/default.ctp
+| webroot/js/navigation.js
+
+*   dfa9e50 was Caroline Béguinot, 2 hours ago, message: merge, 
+|\  
+| * 041268a was Caroline Béguinot, 2 hours ago, message: commit avant merge, origin/finalisation| | 
+| | src/Controller/ArenasController.php
+| | src/Template/Arenas/sight.ctp
+| | webroot/js/navigation.js
+
+| * 9bd2c8c was Caroline Béguinot, 2 hours ago, message: sight OK, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+| | webroot/css/style.css.php
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_30.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_34.jpg
+| | webroot/img/castle.png
+| | webroot/js/navigation.js
+
+| * 9c86e23 was Caroline Béguinot, 4 hours ago, message: login add OK, | | 
+| | webroot/css/style.css.php
+| | webroot/img/Fog2copie.png
+
+| * 3b91dd2 was Caroline Béguinot, 5 hours ago, message: index OK, | | 
+| | src/Template/Arenas/index.ctp
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_24.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_30.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_31.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Robert.jpg
+| | webroot/img/Fog1.png
+| | webroot/img/Fog1copie.png
+| | webroot/img/Fog2.png
+| | webroot/img/Fog2copie.png
+| | webroot/img/Fog3.png
+| | webroot/img/cersei.png
+| | webroot/img/imgIndex1.PNG
+| | webroot/img/imgIndex2.png
+| | webroot/img/imgIndex3.png
+
+| * d1d473b was Caroline Béguinot, 5 hours ago, message: css clean + footer OK, | | 
+| | src/Template/Arenas/fighter.ctp
+| | src/Template/Arenas/sight.ctp
+| | src/Template/Layout/default.ctp
+| | webroot/css/style.css.php
+| | webroot/css/stylesheet.css
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_20.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_24.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_85.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_ma.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_salut.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_19.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_23.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Dany.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Dany2.jpg
+| | webroot/img/Fog1 - Copie.png
+| | webroot/img/Fog2 - Copie.png
+| | webroot/img/Fog3 - Copie.png
+
+| * 3911303 was Caroline Béguinot, 7 hours ago, message: affichage combattant courant + combattants des AUTRES joueurs, | | 
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_10.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_20.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_Lisa.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_19.jpg
+
+* | 402e54a was Jean Babin, 2 hours ago, message: Correction bugs jauge temps, 
+|/  |   
+|   src/Controller/AppController.php
+|   src/Controller/ArenasController.php
+|   src/Model/Table/FightersTable.php
+|   src/Template/Arenas/sight.ctp
+|   webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_104.jpg
+|   webroot/js/navigation.js
+
+* ae94938 was Jean Babin, 8 hours ago, message: Quelques modifs pour satisfaire le CDC, | 
+| src/Model/Table/FightersTable.php
+| src/Model/Table/SurroundingsTable.php
+
+*   4b56e38 was Jean Babin, 8 hours ago, message: Merge branch 'user' into HEAD, 
+|\  
+| * bf016bb was Jean Babin, 8 hours ago, message: Résolution bug sélection combattant joué, origin/user, user| | 
+| | src/Template/Arenas/fighter.ctp
+
+| * 4045f8f was Jean Babin, 8 hours ago, message: Lien site footer, | | 
+| | src/Template/Layout/default.ctp
+
+| * b242988 was Jean Babin, 2 days ago, message: Sélection du combattant joué, master| | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Template/Arenas/fighter.ctp
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_82.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_84.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_85.jpg
+| | webroot/js/navigation.js
+
+* | 2533b4a was Pauline Druesne, 19 hours ago, message: sight, | | 
+| | src/Model/Table/FightersTable.php
+| | webroot/img/8a466d34-a024-4689-af40-5a67bc6fefff_27.jpg
+
+* | 307da86 was Pauline Druesne, 2 days ago, message: events, 
+|/  |   
+|   src/Controller/ArenasController.php
+
+*   ac1c7ec was Jean Babin, 2 days ago, message: Résolution conflits, tag: Essos, origin/master, origin/sight
+|\  
+| *   caec0ff was Jean Babin, 2 days ago, message: Résolution conflits, origin/temp
+| |\  
+| | * 8918ad6 was Jean Babin, 2 days ago, message: commit avant merge, | | | 
+| | | src/Controller/ArenasController.php
+
+| | * 9227620 was Jean Babin, 3 days ago, message: Reinitialisation des obstacles Ajax et autres modifs, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Template/Arenas/sight.ctp
+| | | webroot/js/navigation.js
+
+| | * 31a4082 was Jean Babin, 3 days ago, message: Attaque ajax, | | | 
+| | | src/Controller/AppController.php
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Template/Arenas/sight.ctp
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_40.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_51.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_52.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_53.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_54.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_55.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_56.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_57.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_58.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_59.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_60.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_61.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_62.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_63.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_64.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_65.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_66.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_67.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_68.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_69.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_70.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_71.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_72.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_73.jpg
+| | | webroot/js/navigation.js
+
+| | * 52272db was Jean Babin, 3 days ago, message: Déplacement grille Ajax et autres modifs, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Model/Table/SurroundingsTable.php
+| | | src/Template/Arenas/fighter.ctp
+| | | src/Template/Arenas/sight.ctp
+| | | src/Template/Layout/default.ctp
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_40.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_51.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_52.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_53.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_54.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_55.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_56.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_57.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_58.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_59.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_60.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_61.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_62.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_63.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_64.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_65.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_66.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_67.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_68.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_69.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_70.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_71.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_72.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_73.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_Angmar.jpg
+| | | webroot/js/navigation.js
+| | | webroot/versions.log
+
+| | * 197678e was Jean Babin, 4 days ago, message: Résolution bug points d'action, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Controller/PlayersController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Model/Table/SurroundingsTable.php
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_Angmar.jpg
+| | | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_Aragorn.jpg
+| | | webroot/img/58278426-77fa-489b-9820-02c60e5a96b9_test.jpg
+
+| * | de816f4 was Caroline Béguinot, 2 days ago, message: commit avant merge, temp| | | 
+| | | src/Controller/ArenasController.php
+| | | src/Template/Arenas/fighter.ctp
+
+| * | 373e9f4 was Caroline Béguinot, 4 days ago, message: augment des caractéristiques re-marche + radio button front-end pour sélection fighter, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Template/Arenas/fighter.ctp
+| | | webroot/css/style.css.php
+| | | webroot/img/wallpaper1.jpg
+| | | webroot/img/wallpaper2.jpg
+| | | webroot/img/wallpaper3.jpg
+| | | webroot/img/wallpaper4.jpg
+| | | webroot/img/wallpaper5.jpg
+| | | webroot/img/wallpaper6.jpg
+| | | webroot/img/wallpaper7.jpg
+| | | webroot/img/wallpaper8.jpg
+
+| * | 8725565 was Caroline Béguinot, 5 days ago, message: structure index + index et default responsive, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Template/Arenas/fighter.ctp
+| | | src/Template/Arenas/index.ctp
+| | | src/Template/Arenas/sight.ctp
+| | | src/Template/Layout/default.ctp
+| | | webroot/css/style.css.php
+| | | webroot/img/kingshand.png
+
+| * | 33f16c5 was Caroline Béguinot, 5 days ago, message: bouton déconnexion, 
+| |/  | |   
+| |   src/Template/Layout/default.ctp
+| |   webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Dany.jpg
+| |   webroot/img/jonsnow.png
+
+* | 4ced881 was Pauline Druesne, 2 days ago, message: affichage events, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/EventsTable.php
+| | src/Model/Table/FightersTable.php
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_bloublou.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_ma.jpg
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_salut.jpg
+
+* |   391abe6 was Pauline Druesne, 5 days ago, message: commit avant merge, tag: Dragonstone, origin/frontend
+|\ \  
+| |/  
+|/|   
+| * e0b0c1d was Pauline Druesne, 5 days ago, message: commit avant merge, origin/sight2| | 
+| | src/Controller/AppController.php
+| | src/Controller/ArenasController.php
+| | src/Model/Table/EventsTable.php
+| | src/Model/Table/FightersTable.php
+| | src/Template/Arenas/diary.ctp
+
+* |   cd08d6f was Jean Babin, 5 days ago, message: Résolution conflits merge sight sur frontend, 
+|\ \  
+| * \   e855453 was Jean Babin, 5 days ago, message: Merge branch 'user' into HEAD, 
+| |\ \  
+| | |/  
+| |/|   
+| | * b8cc3da was Jean Babin, 5 days ago, message: Gestion limite temporelle, | | | 
+| | | src/Controller/AppController.php
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Template/Arenas/fighter.ctp
+| | | src/Template/Arenas/sight.ctp
+| | | webroot/img/58278426-77fa-489b-9820-02c60e5a96b9_test.jpg
+| | | webroot/js/navigation.js
+
+| | * abb2285 was Jean Babin, 7 days ago, message: Reset mot de passe, | | | 
+| | | src/Controller/AppController.php
+| | | src/Controller/PlayersController.php
+| | | src/Model/Table/PlayersTable.php
+| | | src/Template/Players/login.ctp
+| | | src/Template/Players/pwdrecovery.ctp
+| | | webroot/img/58278426-77fa-489b-9820-02c60e5a96b9_test.jpg
+| | | webroot/js/jquery.js
+| | | webroot/js/jquery.min.js
+| | | webroot/js/navigation.js
+
+| * | 86046ef was Pauline Druesne, 6 days ago, message: page diary, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/EventsTable.php
+
+| * | 693e9ed was Pauline Druesne, 7 days ago, message: page diary, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/EventsTable.php
+| | | src/Template/Arenas/diary.ctp
+
+| * | 2401a36 was Pauline Druesne, 7 days ago, message: résoltuion bug, 
+| |/  | |   
+| |   src/Model/Table/FightersTable.php
+
+* | 9549368 was Caroline Béguinot, 5 days ago, message: alertes monstres et pièges, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+| | src/Template/Arenas/fighter.ctp
+| | src/Template/Arenas/sight.ctp
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_Lisa.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Dany.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Dany2.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Robert.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_TheHound.jpg
+
+* | 68bacd4 was Caroline Béguinot, 6 days ago, message: version warnings+notice, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+| | src/Template/Arenas/index.ctp
+| | src/Template/Arenas/sight.ctp
+| | src/Template/Layout/default.ctp
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Angmar.jpg
+| | webroot/img/robert.png
+
+* | 15ff453 was Caroline Béguinot, 7 days ago, message: suite de l'arène, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+| | src/Template/Arenas/sight.ctp
+| | src/Template/Layout/default.ctp
+| | webroot/css/style.css.php
+| | webroot/img/545f827c-576c-4dc5-ab6d-27c33186dc3e_Aragorn.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_Angmar.jpg
+| | webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_TheHound.jpg
+| | webroot/img/Dany2.png
+| | webroot/img/Fog1 - Copie.png
+| | webroot/img/Fog2 - Copie.png
+| | webroot/img/Fog3 - Copie.png
+| | webroot/img/blason.jpg
+| | webroot/img/cersei.png
+| | webroot/img/jonsnow.png
+| | webroot/img/map.jpg
+| | webroot/img/robert.png
+| | webroot/img/vide.jpg
+
+* | 7d609f9 was Caroline Béguinot, 7 days ago, message: page vision, 
+|/  |   
+|   src/Model/Table/SurroundingsTable.php
+|   src/Template/Arenas/fighter.ctp
+|   src/Template/Arenas/sight.ctp
+|   src/Template/Layout/default.ctp
+|   webroot/css/style.css.php
+|   webroot/img/5556bcc9-674d-44b6-a272-1cff5b53fa05_TheHound.jpg
+|   webroot/img/faviconECE.png
+
+*   dcfa15c was Jean Babin, 8 days ago, message: Merge user sur sight, tag: CasterlyRock
+|\  
+| * 7a3d056 was Jean Babin, 8 days ago, message: Upload avatar presque parfait, | | 
+| | .htaccess
+| | src/Controller/ArenasController.php
+| | src/Template/Arenas/fighter.ctp
+| | webroot/img/58278426-77fa-489b-9820-02c60e5a96b9_test.jpg
+
+| * 66c4331 was Jean Babin, 8 days ago, message: Upload images, | | 
+| | src/Controller/ArenasController.php
+| | src/Template/Arenas/fighter.ctp
+| | webroot/js/navigation.js
+
+* |   db713e9 was Caroline Béguinot, 8 days ago, message: conflits résolus, 
+|\ \  
+| * | 8ec8793 was Pauline Druesne, 8 days ago, message: commit avant merge, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/EventsTable.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Model/Table/SurroundingsTable.php
+| | | src/Template/Arenas/sight.ctp
+
+| * | 83c05d4 was Pauline Druesne, 8 days ago, message: Attaque, | | | 
+| | | src/Controller/AppController.php
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Template/Arenas/sight.ctp
+
+| * | dce96d0 was Pauline Druesne, 8 days ago, message: Vision et events, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/EventsTable.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Model/Table/SurroundingsTable.php
+| | | src/Template/Arenas/sight.ctp
+
+| * | 45e25bc was Pauline Druesne, 10 days ago, message: Résolution erreur, | | | 
+| | | nbproject/private/private.xml
+| | | src/Model/Table/FightersTable.php
+
+* | | 768b94b was Caroline Béguinot, 8 days ago, message: commit avant merge, | | | 
+| | | src/Template/Arenas/fighter.ctp
+| | | src/Template/Arenas/sight.ctp
+| | | src/Template/Layout/default.ctp
+| | | webroot/css/style.css.php
+| | | webroot/css/stylesheet.css
+| | | webroot/img/Dany.png
+| | | webroot/img/Fog1.png
+| | | webroot/img/Fog2.png
+| | | webroot/img/Fog3.png
+
+* | | 4350a18 was Caroline Béguinot, 8 days ago, message: login + footer, 
+| |/  
+|/|   | |   
+| |   src/Controller/PlayersController.php
+| |   src/Model/Table/FightersTable.php
+| |   src/Template/Arenas/fighter.ctp
+| |   src/Template/Arenas/sight.ctp
+| |   src/Template/Element/Flash/error.ctp
+| |   src/Template/Element/Flash/success.ctp
+| |   src/Template/Layout/default.ctp
+| |   src/Template/Players/add.ctp
+| |   src/Template/Players/login.ctp
+| |   webroot/css/stylephp.php
+| |   webroot/css/stylesheet.css
+| |   webroot/img/cake-logo.png
+| |   webroot/img/cake.icon.png
+| |   webroot/img/cake.logo.svg
+| |   webroot/img/cake.power.gif
+| |   webroot/img/favicon.ico
+| |   webroot/img/hero2.jpg
+| |   webroot/img/onglet.ico
+| |   webroot/img/onglet.png
+
+* | 32abc9c was Jean Babin, 10 days ago, message: Affichage fighters par player, 
+|/  |   
+|   src/Controller/AppController.php
+|   src/Controller/ArenasController.php
+|   src/Model/Table/FightersTable.php
+|   src/Template/Arenas/fighter.ctp
+
+* 96e6e3c was Caroline Béguinot, 10 days ago, message: commit avant merge, tag: Baratheon| 
+| src/Controller/ArenasController.php
+| src/Template/Arenas/fighter.ctp
+| src/Template/Arenas/index.ctp
+| src/Template/Layout/default.ctp
+| src/Template/Players/login.ctp
+
+*   55851ae was Jean Babin, 10 days ago, message: Résolution conflits fusion branches sur sight, 
+|\  
+| * 1caa594 was Jean Babin, 10 days ago, message: Commit avant merge, origin/UserManager, UserManager| | 
+| | src/Controller/AppController.php
+| | src/Controller/ArenasController.php
+| | src/Controller/PlayersController.php
+| | src/Template/Players/add.ctp
+| | src/Template/Players/login.ctp
+
+| * ed24fcd was Jean Babin, 11 days ago, message: Registration, Login, Logout, | | 
+| | src/Controller/AppController.php
+| | src/Controller/ArenasController.php
+| | src/Controller/PlayersController.php
+| | src/Model/Table/PlayersTable.php
+| | src/Template/Arenas/index.ctp
+| | src/Template/Players/add.ctp
+| | src/Template/Players/login.ctp
+
+| * 7e6647a was Jean Babin, 11 days ago, message: Login, | | 
+| | src/Controller/AppController.php
+| | src/Controller/ArenasController.php
+| | src/Model/Entity/Player.php
+| | src/Model/Entity/empty
+| | src/Template/Arenas/login.ctp
+
+| * f20dff8 was Jean Babin, 11 days ago, message: Connexion, | | 
+| | nbproject/private/private.xml
+| | src/Controller/AppController.php
+| | src/Controller/ArenasController.php
+| | src/Model/Table/PlayersTable.php
+| | src/Model/Table/empty
+| | src/Template/Arenas/fighter.ctp
+| | src/Template/Arenas/login.ctp
+
+* |   4a95636 was Caroline Béguinot, 10 days ago, message: Merge branch 'fighters' into sight, 
+|\ \  
+| * | e4b665b was Caroline Béguinot, 10 days ago, message: front-end fiches et creation, origin/fighters| | | 
+| | | src/Template/Arenas/fighter.ctp
+| | | webroot/css/style.css.php
+| | | webroot/css/stylesheet.css
+
+| * | d6e2497 was Caroline Béguinot, 12 days ago, message: Fiches combattant, mais mieux, | | | 
+| | | src/Template/Arenas/diary.ctp
+| | | src/Template/Arenas/fighter.ctp
+| | | src/Template/Arenas/index.ctp
+| | | src/Template/Arenas/sight.ctp
+| | | src/Template/Layout/default.ctp
+| | | webroot/css/style.css.php
+| | | webroot/css/stylesheet.css
+| | | webroot/js/app.js
+
+| * | a0dfdc0 was Caroline Béguinot, 12 days ago, message: Fiches combattant, | | | 
+| | | src/Controller/ArenasController.php
+| | | src/Model/Table/FightersTable.php
+| | | src/Template/Arenas/fighter.ctp
+| | | webroot/css/style.css.php
+| | | webroot/css/stylephp.php
+| | | webroot/css/stylesheet.css
+
+* | | 3c2fae8 was Pauline Druesne, 10 days ago, message: deplacement et vision, la suite, 
+|/ /  | |   
+| |   src/Controller/ArenasController.php
+| |   src/Model/Table/FightersTable.php
+| |   src/Model/Table/SurroundingsTable.php
+| |   src/Template/Arenas/sight.ctp
+
+* | 1de0ce7 was Pauline Druesne, 12 days ago, message: Arène, | | 
+| | nbproject/private/private.xml
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+| | src/Template/Arenas/sight.ctp
+
+* |   c4d4fb0 was Pauline Druesne, 2 weeks ago, message: Fusion sight stylesheet, 
+|\ \  
+| * | 7fe3385 was Caroline Béguinot, 2 weeks ago, message: Vision - Arene, origin/stylesheet| | | 
+| | | src/Controller/ArenasController.php
+| | | src/Template/Arenas/index.ctp
+| | | src/Template/Arenas/sight.ctp
+| | | src/Template/Layout/default.ctp
+| | | webroot/css/stylesheet.css
+
+| * | b781994 was Caroline Béguinot, 2 weeks ago, message: Debut en mieux, | | | 
+| | | src/Template/Arenas/index.ctp
+| | | src/Template/Layout/default.ctp
+
+| * | 181fda6 was Caroline Béguinot, 2 weeks ago, message: Debut Foundation, 
+| |/  | |   
+| |   src/Template/Arenas/fighter.ctp
+| |   src/Template/Arenas/index.ctp
+| |   src/Template/Layout/default.ctp
+| |   webroot/css/foundation.css
+| |   webroot/css/foundation.min.css
+| |   webroot/css/foundationNew.css
+| |   webroot/css/stylesheet.css
+| |   webroot/img/WebArena.png
+| |   webroot/img/blason.png
+| |   webroot/img/favicon.ico
+| |   webroot/img/faviconECE.ico
+| |   webroot/img/faviconECE.png
+| |   webroot/img/hero.jpg
+| |   webroot/img/hero2.jpg
+| |   webroot/img/onglet.ico
+| |   webroot/img/onglet.png
+| |   webroot/js/app.js
+| |   webroot/js/vendor/foundation.js
+| |   webroot/js/vendor/foundation.min.js
+| |   webroot/js/vendor/jquery.js
+| |   webroot/js/vendor/what-input.js
+
+* | e4a001f was Pauline Druesne, 2 weeks ago, message: Commit avant merge, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+
+* | e9f6315 was Pauline Druesne, 2 weeks ago, message: detection obstacles, | | 
+| | src/Controller/ArenasController.php
+| | src/Model/Table/FightersTable.php
+| | src/Model/Table/SurroundingsTable.php
+
+* | 88f32a2 was Pauline Druesne, 2 weeks ago, message: Obsatcles, 
+|/  |   
+|   src/Controller/ArenasController.php
+|   src/Model/Table/FightersTable.php
+|   src/Model/Table/SurroundingsTable.php
+|   src/Template/Arenas/sight.ctp
+|   vendor.zip
+
+* dcd6ee2 was Pauline Druesne, 3 weeks ago, message: v0.1, tag: Astapor| 
+| .gitignore
+| .travis.yml
+| README.md
+| bin/cake
+| bin/cake.bat
+| bin/cake.php
+| composer.json
+| composer.lock
+| config/.env.default
+| config/app.default.php
+| config/bootstrap.php
+| config/bootstrap_cli.php
+| config/paths.php
+| config/requirements.php
+| config/routes.php
+| config/schema/i18n.sql
+| config/schema/sessions.sql
+| index.php
+| nbproject/private/private.xml
+| nbproject/project.xml
+| src/Application.php
+| src/Console/Installer.php
+| src/Controller/AppController.php
+| src/Controller/ArenasController.php
+| src/Controller/ErrorController.php
+| src/Controller/PagesController.php
+| src/Form/AddFighterForm.php
+| src/Model/Table/FightersTable.php
+| src/Shell/ConsoleShell.php
+| src/Template/Arenas/diary.ctp
+| src/Template/Arenas/fighter.ctp
+| src/Template/Arenas/index.ctp
+| src/Template/Arenas/login.ctp
+| src/Template/Arenas/sight.ctp
+| src/Template/Email/html/default.ctp
+| src/Template/Email/text/default.ctp
+| src/Template/Error/error400.ctp
+| src/Template/Error/error500.ctp
+| src/Template/Layout/Email/html/default.ctp
+| src/Template/Layout/Email/text/default.ctp
+| src/Template/Layout/ajax.ctp
+| src/Template/Layout/default.ctp
+| src/Template/Layout/error.ctp
+| src/Template/Layout/rss/default.ctp
+| src/Template/Pages/home.ctp
+| src/View/AjaxView.php
+| src/View/AppView.php
+| tests/TestCase/ApplicationTest.php
+| tests/TestCase/Controller/PagesControllerTest.php
+| webroot/css/base.css
+| webroot/css/home.css
+| webroot/img/cake-logo.png
+| webroot/index.php
+
+* c8d5afa was Jean Babin, 3 weeks ago, message: v0.1, | 
+| .editorconfig
+| .gitattributes
+| .github/ISSUE_TEMPLATE.md
+| .github/PULL_REQUEST_TEMPLATE.md
+| .gitignore
+| .htaccess
+| .travis.yml
+| README.md
+| bin/cake
+| bin/cake.bat
+| bin/cake.php
+| composer.json
+| composer.lock
+| config/app.default.php
+| config/bootstrap.php
+| config/bootstrap_cli.php
+| config/paths.php
+| config/routes.php
+| config/schema/i18n.sql
+| config/schema/sessions.sql
+| index.php
+| nbproject/private/private.properties
+| nbproject/private/private.xml
+| nbproject/project.properties
+| nbproject/project.xml
+| phpunit.xml.dist
+| plugins/empty
+| src/Application.php
+| src/Console/Installer.php
+| src/Controller/AppController.php
+| src/Controller/ArenasController.php
+| src/Controller/Component/empty
+| src/Controller/ErrorController.php
+| src/Controller/PagesController.php
+| src/Model/Behavior/empty
+| src/Model/Entity/empty
+| src/Model/Table/FightersTable.php
+| src/Model/Table/empty
+| src/Shell/ConsoleShell.php
+| src/Template/Arenas/index.ctp
+| src/Template/Element/Flash/default.ctp
+| src/Template/Element/Flash/error.ctp
+| src/Template/Element/Flash/success.ctp
+| src/Template/Email/html/default.ctp
+| src/Template/Email/text/default.ctp
+| src/Template/Error/error400.ctp
+| src/Template/Error/error500.ctp
+| src/Template/Layout/Email/html/default.ctp
+| src/Template/Layout/Email/text/default.ctp
+| src/Template/Layout/ajax.ctp
+| src/Template/Layout/default.ctp
+| src/Template/Layout/error.ctp
+| src/Template/Layout/rss/default.ctp
+| src/Template/Pages/home.ctp
+| src/View/AjaxView.php
+| src/View/AppView.php
+| src/View/Helper/empty
+| tests/Fixture/empty
+| tests/TestCase/ApplicationTest.php
+| tests/TestCase/Controller/Component/empty
+| tests/TestCase/Controller/PagesControllerTest.php
+| tests/TestCase/Model/Behavior/empty
+| tests/TestCase/View/Helper/empty
+| tests/bootstrap.php
+| webroot/.htaccess
+| webroot/css/base.css
+| webroot/css/cake.css
+| webroot/css/home.css
+| webroot/favicon.ico
+| webroot/font/cakedingbats-webfont.eot
+| webroot/font/cakedingbats-webfont.svg
+| webroot/font/cakedingbats-webfont.ttf
+| webroot/font/cakedingbats-webfont.woff
+| webroot/font/cakedingbats-webfont.woff2
+| webroot/img/cake.icon.png
+| webroot/img/cake.logo.svg
+| webroot/img/cake.power.gif
+| webroot/index.php
+| webroot/js/empty
+
+*   b1c41ab was Jean Babin, 4 weeks ago, message: Merge branch 'master' of https://github.com/jeanbabs/WebArena, 
+|\  
+| * 8b26694 was jeanbabs, 4 weeks ago, message: Delete README.md, | | 
+| | README.md
+
+| * 8d4a3fa was jeanbabs, 4 weeks ago, message: Initial commit, |   
+|   README.md
+
+* 9759b46 was Jean Babin, 4 weeks ago, message: first commit,   
+  test.txt
